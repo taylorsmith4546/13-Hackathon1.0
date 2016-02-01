@@ -1,0 +1,7 @@
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\bin\Debug\NetflixRoulette.Core.dll
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\bin\Debug\NetflixRoulette.Core.pdb
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\obj\Debug\NetflixRoulette.Core.dll
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\obj\Debug\NetflixRoulette.Core.pdb
+C:\Dev\GitHub\HackathonAPI\NeflixRoulette\NetflixRoulette.Core\obj\Debug\NetflixRoulette.Core.csprojResolveAssemblyReference.cache
